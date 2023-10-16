@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>HHPW_Bangazon_BE</RootNamespace>
+    <UserSecretsId>36fea70b-ab2f-44c9-b734-d11ab7917630</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
